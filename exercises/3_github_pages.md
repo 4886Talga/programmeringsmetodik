@@ -8,7 +8,7 @@ Förutom att man kan dela kod på GitHub får man även en gratis hemsida som ma
 
 1. Gå till ditt GitHub-konto på [https://github.com/](https://github.com/). 
 2. Tryck på pluset uppe i högra hörnet på sidan och välj __New Repository__
-3. Under __Repository Name__ skriver du in __dittnamn.github.io__. Du byter ut _dittnamn_ till ditt eget användarnamn på GitHub.
+3. Under __Repository Name__ skriver du in __dittGitHubNamn.github.io__. Du byter ut _dittnamn_ till ditt eget användarnamn på GitHub.
 4. Sedan trycker du på den stora gröna knappen längst ner som det står __Create Repository__ på.
 5. Klona ner detta repository till din dator på valfri plats med `git clone`. Repositoryt är tomt för stunden så vi kommer bara klona ner en mapp.
 6. Lägg till en `index.html` i det tomma klonade repositoryt.
