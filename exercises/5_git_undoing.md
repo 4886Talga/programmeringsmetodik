@@ -48,13 +48,12 @@ Dessa steg ska ni testa individuellt men får gärna hjälp varandra i de par so
 
 ### Ta bort ändringar i Staging Area
 
-Vi lägger till filer i staging area genom att skriva `git add` samt filen vi ska lägga till. Om vi vill lägga till alla filer vi gjort ändringar på 
+Vi lägger till filer i staging area genom att skriva `git add` samt filen vi ska lägga till. Om vi vill ta bort ändringar som man har gjort innan man har gjort en `git add` kan man använda:
 
 `git checkout nameOfFile`
 
 1. Skriv en riktigt ful kommentar i botten på er kod från förra övningen.
-2. Lägg till ändringen med `git add .`
-3. Kom på att den här koden ska delas med andra och att du vill ta bort ändringen men har redan lagt till den till _Staging Area_.
+3. Kom på att den här koden ska delas med andra och att du vill ta bort ändringen.
 4. Använd `git status`
 5. Använd kommandot `git checkout dinkod.js` för att ta bort ändringen på filen
 6. Använd `git status`
