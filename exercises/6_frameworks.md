@@ -14,12 +14,13 @@ Det finns dock väldigt många olika ramverk och bibliotek och välja mellan och
 
 __Uppgift: Ni ska i grupp av tre göra en trendspaning och sedan presentera erat resultat för varandra i tvärgrupper på eftermiddagen.__
 
-1. Ni ska ta reda på vilka de mest använda biblioteken och ramverken är för JavaScript för tillfället. Här får ni slipa på erat sätt att söka på information. Ta till hjälp alla källor ni kan hitta. Google, Stack Overflow, Facebook, Twitter eller andra nätverk. Försök att få fram användning och popularitet kring ramverk och bibliotek.
+1. Ni ska ta reda på vilka de mest använda biblioteken och ramverken är för JavaScript för tillfället. Minst 3 olika ramverk/bibliotek. Här får ni slipa på erat sätt att söka på information. Ta till hjälp alla källor ni kan hitta. Google, Stack Overflow, Facebook, Twitter eller andra nätverk. Försök att få fram användning och popularitet kring ramverk och bibliotek.
 2. Varför är dessa ramverk och bibliotek så pass använda? Vad finns för fördelar och vad finns det för nackdelar med dessa ramverk och bibliotek ni hittar?
-3. Vad är det för sorts ramverk eller bibliotek? Vilket problem försöker det lösa?
-4. Vad kan det finnas för nackdelar med att använda ramverk och bibliotek?
-5. Varför ska man använda ramverk och bibliotek?
-6. Leta fram minst 2 hemsidor som är skapad med dessa bibliotek och ramverk och visa upp. Motivera varför ni valde just dessa hemsidor att visa upp.
+3. Vilket eller vilka problem försöker ramverket eller biblioteket lösa?
+4. Vad kan det finnas för nackdelar med att använda ramverk och bibliotek? Lägg fram minst 3 argument
+5. Varför ska man använda ramverk och bibliotek? Lägg fram minst 3 argument
+6. Leta fram minst 3 hemsidor som är skapad med dessa bibliotek och ramverk och visa upp. Motivera varför ni valde just dessa hemsidor att visa upp.
+
 
 När ni är klara med insamlingen kan ni finslipa på era presentationspunkter sen ta lunch.
 
