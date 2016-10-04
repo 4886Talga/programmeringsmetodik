@@ -72,7 +72,7 @@ Att veta vad som är rätt är inte lätt. Vi ska ännu en gång spana på inter
 3. Är källorna överens på samtliga punkter eller finns det skillnader?
 4. Sammanställ en lista på vad som verkar vara best practice gällande punkterna ovan.
 5. Diskutera med en annan i klassen om det finns eventuella skillnader mellan vad ni hittat.
-6. Skicka resultatet till mig via ett slack-meddelande. 
+6. Pusha gärna upp ert resultat till ert eget repo. En bra idé är att ha ett repo för olika övningar ni gör under lektionerna och sedan pusha upp textfiler eller javascriptfiler man använder under lektionerna. På så sätt kan jag även komma åt dem och se vad ni har gjort. 
 
 
 
