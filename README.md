@@ -29,8 +29,13 @@ Goda kunskaper och självständigt kunna sätta upp sin egen versionshanteringsm
 ## Länkar
 
 [Git Documentation](https://git-scm.com/documentation)
+
 [The Languages and Frameworks You Should Learn in 2016 (exempel)](http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/)
+
 [Wikipedia - Algorithm](https://en.wikipedia.org/wiki/Algorithm)
+
 [Wikipedia - Flowchart](https://en.wikipedia.org/wiki/Flowchart)
+
 [Psuedo Code](https://en.wikibooks.org/wiki/A-level_Computing/AQA/Problem_Solving,_Programming,_Data_Representation_and_Practical_Exercise/Problem_Solving/Pseudo_code)
+
 [Stack & Queue in JavaScript](http://rebootjeff.github.io/blog/2013/12/26/queues-and-stacks-in-javascript/)
