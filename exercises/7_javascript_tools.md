@@ -89,7 +89,7 @@ __Använd de olika pakethanterarna för att söka efter plugins som underlättar
 
 Om man vill ha olika tips så kan Google förse en med många svar: "Top 10 packages sublime/atom" eller liknande brukar förse en med massa alternativ. Sedan får man sålla efter de paket som passar ens behov.
 
-På många textredigerar går det även att ställa in så att det __autosparas__. I varje pakethanterar kan man då söka på "Autosave" så borde man få upp ett paket som fixar det åt en.
+På många textredigerare går det även att ställa in så att det __autosparas__. I varje pakethanterar kan man då söka på "Autosave" så borde man få upp ett paket som fixar det åt en.
 
 
 
