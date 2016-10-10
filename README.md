@@ -18,6 +18,14 @@
 * Hur man använder en flowchart för att lösa ett programmeringsproblem.
 * Olika ramverk, bibliotek och verktyg som är populära och som finns att använda inom Front End-utveckling. (Nämna något ramverk eller bibliotek och dess användningsområden, fördelar och nackdelar)
 
+
+__För VG__:
+
+Har fördjupade kunskaper om pseudoprogrammering och i olika
+problemlösningar för programmering.
+
+Goda kunskaper och självständigt kunna sätta upp sin egen versionshanteringsmiljö.
+
 ## Länkar
 
 [Git Documentation](https://git-scm.com/documentation)
